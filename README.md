@@ -42,4 +42,4 @@ This project helped me practice:
 - Basic Git & GitHub workflow
 ## Author
 
-GitHub: https://github.com/guessswha
+GitHub: https://github.com/guesswha

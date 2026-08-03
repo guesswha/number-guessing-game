@@ -11,9 +11,9 @@ A simple number guessing game written in Python.
 
 - Randomly generates a number from 1 to 100.
 - Three difficulty levels:
-  > Easy
-  > Medium
-  > Hard
+  * Easy
+  * Medium
+  * Hard
 - Gives hints after each incorrect guess.
 - Handles invalid input.
 - Allows the player to play again after each game.

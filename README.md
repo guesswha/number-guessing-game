@@ -6,6 +6,7 @@ A simple number guessing game written in Python.
 
 ![](gameplay.png)
 
+![](gameplay.gif)
 ## Features
 
 - Randomly generates a number from 1 to 100.

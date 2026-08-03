@@ -54,7 +54,7 @@ while playing:
                 playing = False
                 break
             else:
-                print("Please enter y or n! Do you want to play again? y/n ")    
+                print("Please enter y or n!")    
 
     except ValueError:
         print("Please enter an integer between 1 and 100!")

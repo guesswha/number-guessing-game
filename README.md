@@ -2,6 +2,10 @@
 
 A simple number guessing game written in Python.
 
+## Gameplay
+
+![](gameplay.png)
+
 ## Features
 
 - Randomly generates a number from 1 to 100.

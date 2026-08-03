@@ -50,7 +50,6 @@ while playing:
                 win = lose = False
                 attempts = 0
                 guessedNumbers = []
-                break
             elif playAgain.lower() == "n":
                 playing = False
                 break

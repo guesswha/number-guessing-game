@@ -9,7 +9,6 @@ Enter 1 to choose easy mode, 2 to choose normal mode and 3 to choose hard mode!"
 hardness = function.chooseHardness()
 
 number = random.randint(1, 100)
-# number = 80
 
 win = lose = False
 
